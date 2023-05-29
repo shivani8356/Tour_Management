@@ -1,0 +1,16 @@
+{
+  "name": "tour-management",
+  "version": "1.0.0",
+  "description": "Tour management project",
+  "main": "app.js",
+  "scripts": {
+    "start": "nodemon server.js"
+  },
+  "author": "Shivani Hariyani",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.0.3",
+    "express": "^4.18.2",
+    "mongoose": "^7.2.1"
+  }
+}
